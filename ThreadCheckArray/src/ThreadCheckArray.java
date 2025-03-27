@@ -8,7 +8,7 @@ public class ThreadCheckArray implements Runnable
 	
 	public ThreadCheckArray(SharedData sd) 
 	{
-		//check remote
+		//check remoteeeeeeeeeexcx
 		this.sd = sd;	
 		synchronized (sd) 
 		{
